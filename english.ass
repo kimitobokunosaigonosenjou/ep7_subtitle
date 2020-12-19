@@ -1,0 +1,287 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:13.99,0:00:15.66,Default,,0,0,0,,Are you being serious?!
+Dialogue: 0,0:00:15.66,0:00:18.12,Default,,0,0,0,,We can't take him into the Sovereignty!
+Dialogue: 0,0:00:18.12,0:00:20.16,Default,,0,0,0,,If we do that...
+Dialogue: 0,0:00:20.16,0:00:27.37,Default,,0,0,0,,Torture, a life sentence, or even death\Nwould be waiting for an ex-Saint Disciple!
+Dialogue: 0,0:00:27.37,0:00:30.08,Default,,0,0,0,,Rin, this is an order!
+Dialogue: 0,0:00:30.08,0:00:34.04,Default,,0,0,0,,We cannot take him into the Sovereignty,\Nespecially not Central Province!
+Dialogue: 0,0:00:34.04,0:00:39.74,Default,,0,0,0,,And what if Iska escapes?\NThe palace will be dead ahead!
+Dialogue: 0,0:00:42.62,0:00:44.62,Default,,0,0,0,,I understand.
+Dialogue: 0,0:00:44.62,0:00:48.54,Default,,0,0,0,,Then we'll head to the closest\NNebulis territory from here.
+Dialogue: 0,0:00:48.54,0:00:51.08,Default,,0,0,0,,The closest?
+Dialogue: 0,0:00:51.08,0:00:52.54,Default,,0,0,0,,Isn't that...
+Dialogue: 0,0:01:12.26,0:01:15.63,Default,,0,0,0,,{\fad(500,0)\bord0.25\an8\pos(620,148)\c&H151618&}Our Last Crusade or the Rise of a New World
+Dialogue: 0,0:02:23.99,0:02:26.62,Default,,0,0,0,,Successor of the Black Steel, Iska.
+Dialogue: 0,0:02:26.62,0:02:31.99,Default,,0,0,0,,He has been kidnapped by the Ice Calamity Witch\Nin Neutral city, of all places.
+Dialogue: 0,0:02:31.99,0:02:36.20,Default,,0,0,0,,That appears to be the case,\Nbut it does not hinder our plan.
+Dialogue: 0,0:02:36.20,0:02:38.99,Default,,0,0,0,,You just focus on the secret op.
+Dialogue: 0,0:02:38.99,0:02:42.24,Default,,0,0,0,,Well, that {\i1}was{\i0} what I planned on doing,
+Dialogue: 0,0:02:42.24,0:02:46.29,Default,,0,0,0,,but His Excellency made me put a pin in it.
+Dialogue: 0,0:02:46.29,0:02:47.54,Default,,0,0,0,,What?!
+Dialogue: 0,0:02:47.54,0:02:49.58,Default,,0,0,0,,His Excellency certainly is fickle.
+Dialogue: 0,0:02:49.58,0:02:52.70,Default,,0,0,0,,Then what would you do, Risya?
+Dialogue: 0,0:02:52.70,0:02:56.99,Default,,0,0,0,,Witnesses saw the vehicle that we\Nthink was used in the kidnapping.
+Dialogue: 0,0:02:56.99,0:03:00.49,Default,,0,0,0,,Judging from their direction,\Nthey're likely headed to
+Dialogue: 0,0:03:00.49,0:03:03.87,Default,,0,0,0,,the Nebulis Sovereignty Province 13, Alcatroz.
+Dialogue: 0,0:03:04.87,0:03:06.95,Default,,0,0,0,,Also known as the Prison Sector.
+Dialogue: 0,0:03:06.95,0:03:10.74,Default,,0,0,0,,The one who went against\Nthe former Queen Nebulis,
+Dialogue: 0,0:03:10.74,0:03:13.83,Default,,0,0,0,,the Heretical Demon, Salinger,\Nis also held there.
+Dialogue: 0,0:03:13.83,0:03:19.45,Default,,0,0,0,,If we can free him,\Nit just might work out for the Empire.
+Dialogue: 0,0:03:19.45,0:03:24.29,Default,,0,0,0,,It is no easy feat to win Salinger\Nthe Transcendent to our side, but...
+Dialogue: 0,0:03:24.29,0:03:26.41,Default,,0,0,0,,It is worth trying.
+Dialogue: 0,0:03:26.41,0:03:29.49,Default,,0,0,0,,Risya, do what you will.
+Dialogue: 0,0:03:29.49,0:03:31.41,Default,,0,0,0,,I plan on doing just that.
+Dialogue: 0,0:03:43.45,0:03:45.70,Default,,0,0,0,,Thanks for waiting, guys!
+Dialogue: 0,0:03:49.66,0:03:52.12,Default,,0,0,0,,This was a tough break, huh?
+Dialogue: 0,0:03:52.12,0:03:53.99,Default,,0,0,0,,What's with the past tense?
+Dialogue: 0,0:03:53.99,0:03:55.87,Default,,0,0,0,,Oops, sorry about that.
+Dialogue: 0,0:03:55.87,0:03:59.12,Default,,0,0,0,,We're allowed to go save Iska, right?!
+Dialogue: 0,0:03:59.12,0:04:02.70,Default,,0,0,0,,Of course. But as you know,
+Dialogue: 0,0:04:02.70,0:04:08.20,Default,,0,0,0,,the astral power trial at the border\Nmakes it hard to get into the Sovereignty.
+Dialogue: 0,0:04:08.20,0:04:10.08,Default,,0,0,0,,That's where this comes in.
+Dialogue: 0,0:04:11.49,0:04:15.45,Default,,0,0,0,,I told you I had a trick up\Nmy sleeve to pass the trial.
+Dialogue: 0,0:04:16.83,0:04:19.37,Default,,0,0,0,,Is that astral energy?!
+Dialogue: 0,0:04:19.37,0:04:21.20,Default,,0,0,0,,Wh-What does this mean?
+Dialogue: 0,0:04:21.20,0:04:23.70,Default,,0,0,0,,It works like this, Nens.
+Dialogue: 0,0:04:24.66,0:04:26.16,Default,,0,0,0,,There.
+Dialogue: 0,0:04:26.16,0:04:27.95,Default,,0,0,0,,What are you doing, Risya?!
+Dialogue: 0,0:04:33.99,0:04:36.66,Default,,0,0,0,,Have I become a witch?
+Dialogue: 0,0:04:36.66,0:04:40.62,Default,,0,0,0,,Just the outermost layer of the skin,\Nand only for a week.
+Dialogue: 0,0:04:40.62,0:04:47.16,Default,,0,0,0,,This gadget emits concentrated astral energy\Nto stamp an astral crest on your skin.
+Dialogue: 0,0:04:47.16,0:04:52.95,Default,,0,0,0,,How disturbing. Courtesy of the Empire's\Ntop-secret astral power research?
+Dialogue: 0,0:04:52.95,0:04:57.49,Default,,0,0,0,,So we're going undercover as astral mages\Nto get across the border?
+Dialogue: 0,0:04:57.49,0:04:58.15,Default,,0,0,0,,Mm-hm.
+Dialogue: 0,0:04:58.15,0:04:59.62,Default,,0,0,0,,Looks like it.
+Dialogue: 0,0:05:00.95,0:05:03.04,Default,,0,0,0,,Boss, give me your left shoulder.
+Dialogue: 0,0:05:03.04,0:05:03.95,Default,,0,0,0,,Huh?
+Dialogue: 0,0:05:19.16,0:05:21.37,Default,,0,0,0,,Will this work, Miss Saint Disciple?
+Dialogue: 0,0:05:21.37,0:05:26.08,Default,,0,0,0,,Hey, that looks pretty good.\NJust like the real deal.
+Dialogue: 0,0:05:26.08,0:05:30.41,Default,,0,0,0,,Huh?! Oh, ha, ha, ha, d-don't tease me, Risya...
+Dialogue: 0,0:05:34.33,0:05:36.33,Default,,0,0,0,,Jhin, where do you want yours?
+Dialogue: 0,0:05:36.33,0:05:37.62,Default,,0,0,0,,On my leg.
+Dialogue: 0,0:05:40.79,0:05:43.99,Default,,0,0,0,,After you cross\Nthe Nebulis Sovereignty's border,
+Dialogue: 0,0:05:43.99,0:05:48.29,Default,,0,0,0,,you'll head for Alcatroz\Nand covertly look for Iska.
+Dialogue: 0,0:05:48.29,0:05:50.33,Default,,0,0,0,,And when we find him?
+Dialogue: 0,0:05:51.99,0:05:53.83,Default,,0,0,0,,Wreak havoc.
+Dialogue: 0,0:05:53.83,0:05:59.08,Default,,0,0,0,,While you're doing that, other undercover units\Nwill create diversions, too.
+Dialogue: 0,0:05:59.08,0:06:03.58,Default,,0,0,0,,The rest of the unit will take advantage\Nof the confusion and enter the palace.
+Dialogue: 0,0:06:03.58,0:06:07.24,Default,,0,0,0,,To carry out the plan to capture Queen Nebulis?
+Dialogue: 0,0:06:07.24,0:06:09.24,Default,,0,0,0,,I'm counting on ya!
+Dialogue: 0,0:06:13.04,0:06:17.20,Default,,0,0,0,,Lady Alice, we've arrived in Alcatroz.
+Dialogue: 0,0:06:17.20,0:06:18.79,Default,,0,0,0,,Head towards our lodging.
+Dialogue: 0,0:06:18.79,0:06:19.87,Default,,0,0,0,,Of course.
+Dialogue: 0,0:06:22.16,0:06:26.29,Default,,0,0,0,,Hey, what am I to do with you?
+Dialogue: 0,0:06:31.70,0:06:34.29,Default,,0,0,0,,You won't wake up, will you?
+Dialogue: 0,0:06:35.54,0:06:39.83,Default,,0,0,0,,Oh, wow. I'm impressed.
+Dialogue: 0,0:06:40.91,0:06:42.04,Default,,0,0,0,,Yeah!
+Dialogue: 0,0:06:44.99,0:06:47.83,Default,,0,0,0,,Mine is softer than yours.
+Dialogue: 0,0:06:51.41,0:06:54.33,Default,,0,0,0,,That's one win for me.
+Dialogue: 0,0:07:02.49,0:07:09.08,Default,,0,0,0,,How frightening... You're my enemy,\Nbut you make me forget that.
+Dialogue: 0,0:07:13.20,0:07:14.79,Default,,0,0,0,,Hey, Rin!
+Dialogue: 0,0:07:14.79,0:07:17.58,Default,,0,0,0,,It was an alley cat. I apologize.
+Dialogue: 0,0:07:18.91,0:07:20.49,Default,,0,0,0,,Be careful.
+Dialogue: 0,0:07:23.24,0:07:26.74,Default,,0,0,0,,Huh?! Oh, no! I-I'm sorry.
+Dialogue: 0,0:07:26.74,0:07:28.08,Default,,0,0,0,,Lady Alice?
+Dialogue: 0,0:07:29.20,0:07:33.87,Default,,0,0,0,,I-It's nothing, Rin.\NYou just keep your eyes on the road!
+Dialogue: 0,0:07:36.54,0:07:38.37,Default,,0,0,0,,You're awake?!
+Dialogue: 0,0:07:39.33,0:07:40.91,Default,,0,0,0,,Alice...
+Dialogue: 0,0:07:40.91,0:07:45.87,Default,,0,0,0,,Hey, Rin! You said he wouldn't\Nwake up until at least tomorrow!
+Dialogue: 0,0:07:45.87,0:07:47.87,Default,,0,0,0,,H-He wasn't supposed to!
+Dialogue: 0,0:07:47.87,0:07:51.58,Default,,0,0,0,,Just how strong is his drug tolerance?
+Dialogue: 0,0:07:55.95,0:07:58.45,Default,,0,0,0,,Oh, i-it looks like you remember.
+Dialogue: 0,0:07:58.45,0:08:01.33,Default,,0,0,0,,You're in our custody.
+Dialogue: 0,0:08:01.33,0:08:06.04,Default,,0,0,0,,Just remember that it's your fault\Nfor drinking that spiked juice!
+Dialogue: 0,0:08:06.04,0:08:08.29,Default,,0,0,0,,Wow, Alice...
+Dialogue: 0,0:08:08.29,0:08:10.41,Default,,0,0,0,,Wh-What?
+Dialogue: 0,0:08:10.41,0:08:12.49,Default,,0,0,0,,I'm disappointed in you.
+Dialogue: 0,0:08:12.49,0:08:13.70,Default,,0,0,0,,Huh?
+Dialogue: 0,0:08:13.70,0:08:16.95,Default,,0,0,0,,The princess of the Nebulis Sovereignty\Nplaying such a dirty trick?
+Dialogue: 0,0:08:16.95,0:08:19.95,Default,,0,0,0,,That's not true! I didn't order it!
+Dialogue: 0,0:08:19.95,0:08:22.83,Default,,0,0,0,,Rin went and acted on her own accord!
+Dialogue: 0,0:08:22.83,0:08:26.99,Default,,0,0,0,,H-Hold on, Lady Alice!\NI didn't think this would happen, either!
+Dialogue: 0,0:08:26.99,0:08:31.12,Default,,0,0,0,,This is all your fault, Imperial swordsman!\NHow dare you be tricked so easily?!
+Dialogue: 0,0:08:31.12,0:08:34.79,Default,,0,0,0,,The one doing the poisoning is 100% at fault!
+Dialogue: 0,0:08:42.45,0:08:44.70,Default,,0,0,0,,You're free to pass.
+Dialogue: 0,0:08:50.33,0:08:52.95,Default,,0,0,0,,We got through step one...
+Dialogue: 0,0:08:52.95,0:08:55.70,Default,,0,0,0,,Next person, show me your astral crest.
+Dialogue: 0,0:08:59.24,0:09:01.20,Default,,0,0,0,,Sorry for the wait, Jhin!
+Dialogue: 0,0:09:02.70,0:09:04.74,Default,,0,0,0,,Jhin, how'd you finish so fast?
+Dialogue: 0,0:09:04.74,0:09:09.58,Default,,0,0,0,,You guys are just slow.\NAnyway, the next part is the hard part.
+Dialogue: 0,0:09:09.58,0:09:11.33,Default,,0,0,0,,Keep your guard up.
+Dialogue: 0,0:09:11.33,0:09:12.79,Default,,0,0,0,,Okay.
+Dialogue: 0,0:09:12.79,0:09:15.95,Default,,0,0,0,,Iska, please be safe...
+Dialogue: 0,0:09:20.33,0:09:26.29,Default,,0,0,0,,Good job, Unit N07.\NLooks like it went without a hitch.
+Dialogue: 0,0:09:26.29,0:09:32.66,Default,,0,0,0,,But this is as far as we can help.\NEverything else is on you.
+Dialogue: 0,0:09:35.20,0:09:37.45,Default,,0,0,0,,We're here, Lady Alice.
+Dialogue: 0,0:09:41.99,0:09:47.08,Default,,0,0,0,,Imperial soldier, you're now\Ninside the Sovereignty.
+Dialogue: 0,0:09:47.08,0:09:52.79,Default,,0,0,0,,You have no allies here.\NDon't go screaming just because you can.
+Dialogue: 0,0:09:52.79,0:09:56.54,Default,,0,0,0,,Follow me. You're Lady Alice's prisoner.
+Dialogue: 0,0:10:10.49,0:10:13.33,Default,,0,0,0,,What... is this place?
+Dialogue: 0,0:10:17.87,0:10:23.04,Default,,0,0,0,,I'm so tired. A car ride has\Nnever been this tense.
+Dialogue: 0,0:10:23.04,0:10:26.66,Default,,0,0,0,,Lady Alice, I have reserved another room.
+Dialogue: 0,0:10:26.66,0:10:31.58,Default,,0,0,0,,We can chain him up\Nin there as his holding cell.
+Dialogue: 0,0:10:31.58,0:10:35.45,Default,,0,0,0,,No. I bet you just got the smallest room, too.
+Dialogue: 0,0:10:35.45,0:10:39.79,Default,,0,0,0,,I don't want any rumors spreading that\Na princess treated her prisoner poorly.
+Dialogue: 0,0:10:39.79,0:10:43.70,Default,,0,0,0,,H-However, this swordsman is dangerous!
+Dialogue: 0,0:10:43.70,0:10:47.04,Default,,0,0,0,,Who knows when he'll attack you, Lady Alice!
+Dialogue: 0,0:10:47.04,0:10:48.54,Default,,0,0,0,,Even without a sword?
+Dialogue: 0,0:10:48.54,0:10:50.49,Default,,0,0,0,,Even without a sword!
+Dialogue: 0,0:10:50.49,0:10:56.12,Default,,0,0,0,,All men are animals!\NHe'll try to attack you in your sleep--
+Dialogue: 0,0:10:56.12,0:10:58.20,Default,,0,0,0,,What are you talking about?!
+Dialogue: 0,0:11:01.70,0:11:09.58,Default,,0,0,0,,Fine. Then I will stay here and you can take\Nthe presidential suite next door.
+Dialogue: 0,0:11:09.58,0:11:12.87,Default,,0,0,0,,So you'll watch him? Okay.
+Dialogue: 0,0:11:13.95,0:11:15.87,Default,,0,0,0,,Take good care of him.
+Dialogue: 0,0:11:15.87,0:11:16.99,Default,,0,0,0,,Of course.
+Dialogue: 0,0:11:31.74,0:11:35.49,Default,,0,0,0,,Hiya, everyone! I'm glad you all made it!
+Dialogue: 0,0:11:35.49,0:11:36.87,Default,,0,0,0,,Risya!
+Dialogue: 0,0:11:36.87,0:11:39.54,Default,,0,0,0,,So? How's your first time in the Sovereignty?
+Dialogue: 0,0:11:39.54,0:11:44.08,Default,,0,0,0,,I've heard about it, but this province\Nreally is full of prisons.
+Dialogue: 0,0:11:44.08,0:11:50.95,Default,,0,0,0,,Convicts from within and throughout\Nare gathered here in Province 13, Alcatroz.
+Dialogue: 0,0:11:50.95,0:11:57.45,Default,,0,0,0,,They prospered by having other nations\Npay them to imprison violent criminals.
+Dialogue: 0,0:11:57.45,0:11:59.79,Default,,0,0,0,,Those criminals are astral mages?
+Dialogue: 0,0:11:59.79,0:12:06.79,Default,,0,0,0,,Correctomundo. One of the more\Nviolent criminals, the Transce... Oops.
+Dialogue: 0,0:12:06.79,0:12:12.91,Default,,0,0,0,,Oh, Jhin-Jhin, head down and take a left.\NThen keep going straight.
+Dialogue: 0,0:12:12.91,0:12:16.33,Default,,0,0,0,,Um, can you actually see us?
+Dialogue: 0,0:12:16.33,0:12:18.99,Default,,0,0,0,,Ah, good guess, Nens!
+Dialogue: 0,0:12:28.24,0:12:30.08,Default,,0,0,0,,Hiya!
+Dialogue: 0,0:12:30.08,0:12:33.24,Default,,0,0,0,,Huh? Why are you here, Risya?
+Dialogue: 0,0:12:33.24,0:12:38.62,Default,,0,0,0,,How could I possibly let\Nmy precious Mismis go without me?
+Dialogue: 0,0:12:38.62,0:12:42.33,Default,,0,0,0,,So now that we're all here, let's go, shall we?
+Dialogue: 0,0:12:42.33,0:12:43.83,Default,,0,0,0,,Wh-Where to?
+Dialogue: 0,0:12:43.83,0:12:46.74,Default,,0,0,0,,Where Issy is being held captive.
+Dialogue: 0,0:12:46.74,0:12:50.04,Default,,0,0,0,,Ollelugan Prison Tower, here we come!
+Dialogue: 0,0:12:54.12,0:12:58.04,Default,,0,0,0,,The last time I stood before you\Nwas in that forest.
+Dialogue: 0,0:12:58.04,0:12:59.99,Default,,0,0,0,,I guess so.
+Dialogue: 0,0:12:59.99,0:13:03.12,Default,,0,0,0,,This is the go-to hotel\Nused by the Nebulis royals.
+Dialogue: 0,0:13:03.12,0:13:07.91,Default,,0,0,0,,We will keep you here\Nuntil we decide what to do with you.
+Dialogue: 0,0:13:07.91,0:13:10.66,Default,,0,0,0,,At least, that is Lady Alice's plan.
+Dialogue: 0,0:13:10.66,0:13:12.04,Default,,0,0,0,,Alice's?
+Dialogue: 0,0:13:12.04,0:13:14.79,Default,,0,0,0,,That is too risky.
+Dialogue: 0,0:13:14.79,0:13:19.79,Default,,0,0,0,,I see you as a threat\Nbetter than Lady Alice does.
+Dialogue: 0,0:13:19.79,0:13:20.99,Default,,0,0,0,,That is why...
+Dialogue: 0,0:13:30.49,0:13:31.66,Default,,0,0,0,,What are you...?
+Dialogue: 0,0:13:31.66,0:13:33.66,Default,,0,0,0,,This is how the story goes.
+Dialogue: 0,0:13:33.66,0:13:38.62,Default,,0,0,0,,Seeing the knife on the table,\Nyou grabbed it and attacked me.
+Dialogue: 0,0:13:38.62,0:13:40.54,Default,,0,0,0,,My injury proves that.
+Dialogue: 0,0:13:40.54,0:13:42.95,Default,,0,0,0,,Huh? But {\i1}you{\i0} did that...
+Dialogue: 0,0:13:42.95,0:13:45.99,Default,,0,0,0,,This backs up my story of self-defense.
+Dialogue: 0,0:13:45.99,0:13:52.24,Default,,0,0,0,,A dangerous Imperial soldier cannot be only\N{\i1}monitored{\i0} . He must be {\i1}imprisoned{\i0} .
+Dialogue: 0,0:13:52.24,0:13:53.41,Default,,0,0,0,,Hold on...
+Dialogue: 0,0:13:53.41,0:13:56.37,Default,,0,0,0,,Imperial swordsman, Iska... You're done.
+Dialogue: 0,0:13:56.37,0:13:58.20,Default,,0,0,0,,You're joking!
+Dialogue: 0,0:13:58.20,0:13:59.58,Default,,0,0,0,,I am not!
+Dialogue: 0,0:13:59.58,0:14:04.49,Default,,0,0,0,,You will become the greatest obstacle\Nto Lady Alice's goal of world unification!
+Dialogue: 0,0:14:04.49,0:14:07.70,Default,,0,0,0,,Hence my decision.
+Dialogue: 0,0:14:07.70,0:14:12.83,Default,,0,0,0,,You're a necessary sacrifice to unite the world.\NYour dream come true!
+Dialogue: 0,0:14:12.83,0:14:15.54,Default,,0,0,0,,That's definitely not my dream come true!
+Dialogue: 0,0:14:19.70,0:14:23.54,Default,,0,0,0,,Maybe I'll have cold tomato pasta for dinner.
+Dialogue: 0,0:14:28.74,0:14:33.74,Default,,0,0,0,,Oh, no. Rin will scold me again\Nif she sees me like this.
+Dialogue: 0,0:14:33.74,0:14:38.74,Default,,0,0,0,,Now that Iska's my prisoner,\NI shouldn't be too nice to him.
+Dialogue: 0,0:14:40.54,0:14:43.83,Default,,0,0,0,,Hey, Rin, about tonight's dinner--
+Dialogue: 0,0:14:48.04,0:14:52.29,Default,,0,0,0,,Impressive how you stopped\Nmy attack despite being cuffed...
+Dialogue: 0,0:14:52.29,0:14:54.62,Default,,0,0,0,,You won't kill me that easily...
+Dialogue: 0,0:14:54.62,0:14:59.70,Default,,0,0,0,,Oh, Alice! Hey, servant, your master's back!
+Dialogue: 0,0:14:59.70,0:15:04.79,Default,,0,0,0,,Ha! Don't be an idiot!\NI will not fall for such a blatant lie.
+Dialogue: 0,0:15:04.79,0:15:08.08,Default,,0,0,0,,If Lady Alice is truly here,\Nwhy hasn't she stopped me?
+Dialogue: 0,0:15:08.08,0:15:12.04,Default,,0,0,0,,I was just about to do that.
+Dialogue: 0,0:15:12.04,0:15:16.45,Default,,0,0,0,,Looks like you're having fun. May I join?
+Dialogue: 0,0:15:18.91,0:15:21.08,Default,,0,0,0,,Lady Alice...?
+Dialogue: 0,0:15:32.04,0:15:34.79,Default,,0,0,0,,This sure is a heavily guarded prison...
+Dialogue: 0,0:15:34.79,0:15:38.29,Default,,0,0,0,,We barely got in with\NMiss Saint Disciple's help, but...
+Dialogue: 0,0:15:38.29,0:15:41.04,Default,,0,0,0,,Risya went her separate way.
+Dialogue: 0,0:15:41.04,0:15:44.91,Default,,0,0,0,,I wonder if Iska is really here?
+Dialogue: 0,0:15:45.91,0:15:51.29,Default,,0,0,0,,Saint Disciples are the Emperor's guards.\NThey rarely leave the capital.
+Dialogue: 0,0:15:51.29,0:15:55.24,Default,,0,0,0,,If they weren't sure Iska was here,\Nthey wouldn't be here. But...
+Dialogue: 0,0:15:55.24,0:16:01.58,Default,,0,0,0,,But if they have a different agenda,\Nsomething other than rescuing Iska...
+Dialogue: 0,0:16:05.49,0:16:08.83,Default,,0,0,0,,Lady Alice, everything is arranged.
+Dialogue: 0,0:16:10.70,0:16:13.24,Default,,0,0,0,,However, I am reluctant about this...
+Dialogue: 0,0:16:13.24,0:16:17.91,Default,,0,0,0,,It's your fault for assaulting Iska twice.\NYou may go now.
+Dialogue: 0,0:16:17.91,0:16:21.08,Default,,0,0,0,,All right. Please be careful...
+Dialogue: 0,0:16:25.49,0:16:32.41,Default,,0,0,0,,So, I'll be watching over you myself.\NYou should feel honored.
+Dialogue: 0,0:16:32.41,0:16:33.66,Default,,0,0,0,,Alice?
+Dialogue: 0,0:16:33.66,0:16:34.95,Default,,0,0,0,,Yes?
+Dialogue: 0,0:16:34.95,0:16:36.87,Default,,0,0,0,,Are we going to stay like this?
+Dialogue: 0,0:16:36.87,0:16:42.12,Default,,0,0,0,,Of course. Rin said you cannot be trusted\Nwith just the cuffs on.
+Dialogue: 0,0:16:43.91,0:16:45.37,Default,,0,0,0,,What?
+Dialogue: 0,0:16:45.37,0:16:49.66,Default,,0,0,0,,Well, can I ask you a weird question?
+Dialogue: 0,0:16:49.66,0:16:55.49,Default,,0,0,0,,Just so you know, it's impossible to\Nget you out of them. Rin has the keys.
+Dialogue: 0,0:16:55.49,0:16:57.29,Default,,0,0,0,,How will we use the bathroom?
+Dialogue: 0,0:16:59.24,0:17:00.74,Default,,0,0,0,,Huh?
+Dialogue: 0,0:17:00.74,0:17:03.74,Default,,0,0,0,,Or bathe, or go to bed?
+Dialogue: 0,0:17:13.45,0:17:16.58,Default,,0,0,0,,This is bad! Why didn't you\Npoint this out earlier?!
+Dialogue: 0,0:17:16.58,0:17:21.49,Default,,0,0,0,,Wait, was this your plan all along...?\NI never pegged you for a pervert!
+Dialogue: 0,0:17:21.49,0:17:23.95,Default,,0,0,0,,It doesn't take much thinking!
+Dialogue: 0,0:17:23.95,0:17:25.33,Default,,0,0,0,,But...
+Dialogue: 0,0:17:27.62,0:17:28.99,Default,,0,0,0,,Alice?
+Dialogue: 0,0:17:28.99,0:17:35.58,Default,,0,0,0,,N-Now that you mention it...\NSince this whole ordeal, I haven't gone...
+Dialogue: 0,0:17:35.58,0:17:36.62,Default,,0,0,0,,To the bath--
+Dialogue: 0,0:17:36.62,0:17:43.37,Default,,0,0,0,,Don't say it! Rin, we have an emergency!\NBring me the keys!
+Dialogue: 0,0:17:43.37,0:17:45.91,Default,,0,0,0,,You excused her just moments ago.
+Dialogue: 0,0:17:48.83,0:17:51.45,Default,,0,0,0,,Rin?!
+Dialogue: 0,0:18:04.87,0:18:08.91,Default,,0,0,0,,Don't even think of anything evil.
+Dialogue: 0,0:18:08.91,0:18:12.79,Default,,0,0,0,,You won't even get one step\Ninto Lady Alice's bathroom.
+Dialogue: 0,0:18:12.79,0:18:15.79,Default,,0,0,0,,You meant evil in that sense?!
+Dialogue: 0,0:18:15.79,0:18:20.16,Default,,0,0,0,,I have a question.\NWhat are you going to do with me?
+Dialogue: 0,0:18:20.16,0:18:24.74,Default,,0,0,0,,Keep you locked away in this place forever.\NThat's what I propose.
+Dialogue: 0,0:18:24.74,0:18:30.45,Default,,0,0,0,,Lady Alice offered you a deal once.\NYou just didn't take it.
+Dialogue: 0,0:18:30.45,0:18:33.79,Default,,0,0,0,,After that, I have no reason to show you mercy.
+Dialogue: 0,0:18:33.79,0:18:37.24,Default,,0,0,0,,However, that is simply my opinion.
+Dialogue: 0,0:18:38.41,0:18:42.08,Default,,0,0,0,,Phew. I finally feel refreshed.
+Dialogue: 0,0:18:42.08,0:18:44.74,Default,,0,0,0,,Hey, about my change of clothes...
+Dialogue: 0,0:18:48.29,0:18:54.74,Default,,0,0,0,,No! Iska, wait, I didn't mean to!\NI forgot you were here!
+Dialogue: 0,0:18:57.33,0:18:58.99,Default,,0,0,0,,Astral crest?
+Dialogue: 0,0:19:04.91,0:19:11.12,Default,,0,0,0,,Iska, what do you think when you see this?
+Dialogue: 0,0:19:11.12,0:19:17.04,Default,,0,0,0,,Curse of the demon, an unknown disease,\Nmark of a monster rearing its face...
+Dialogue: 0,0:19:17.04,0:19:19.62,Default,,0,0,0,,I know that's what the Empire calls it.
+Dialogue: 0,0:19:19.62,0:19:21.87,Default,,0,0,0,,Lady Alice!
+Dialogue: 0,0:19:21.87,0:19:26.70,Default,,0,0,0,,Don't misunderstand me, Rin.\NI don't care what they think.
+Dialogue: 0,0:19:26.70,0:19:32.16,Default,,0,0,0,,No matter what anyone calls it,\NI'm proud of my astral crest.
+Dialogue: 0,0:19:32.16,0:19:39.62,Default,,0,0,0,,But for some reason,\NI want to know what you think of it.
+Dialogue: 0,0:19:44.95,0:19:48.87,Default,,0,0,0,,There's this captain at the Empire\Nwho became a "witch."
+Dialogue: 0,0:19:48.87,0:19:53.20,Default,,0,0,0,,That person is still a captain at the Empire.
+Dialogue: 0,0:19:53.20,0:19:59.20,Default,,0,0,0,,Whether she's a witch or has\Nan astral crest, I still respect her.
+Dialogue: 0,0:20:00.20,0:20:04.41,Default,,0,0,0,,Is the astral crest the reason why\Nthis war has continued for 100 years?
+Dialogue: 0,0:20:04.41,0:20:07.87,Default,,0,0,0,,Is the reason we fight because\Nof some silly reason like that?
+Dialogue: 0,0:20:07.87,0:20:12.12,Default,,0,0,0,,No. I'm with the Empire\Nand you're with the Sovereignty.
+Dialogue: 0,0:20:12.12,0:20:14.29,Default,,0,0,0,,Which nation we were born in...
+Dialogue: 0,0:20:14.29,0:20:17.33,Default,,0,0,0,,It's our ideas and positions that divide us.
+Dialogue: 0,0:20:17.33,0:20:19.99,Default,,0,0,0,,The reason I fight is not\Nbecause of the astral crest.
+Dialogue: 0,0:20:23.58,0:20:25.83,Default,,0,0,0,,You're right.
+Dialogue: 0,0:20:25.83,0:20:29.79,Default,,0,0,0,,So, you're saying you don't\Ncare about my astral crest?
+Dialogue: 0,0:20:29.79,0:20:32.49,Default,,0,0,0,,Do you even have to ask?
+Dialogue: 0,0:20:32.49,0:20:38.29,Default,,0,0,0,,Then, what do you think of me?\NAside from being a witch?
+Dialogue: 0,0:20:38.29,0:20:40.33,Default,,0,0,0,,A rival on the battlefield.
+Dialogue: 0,0:20:47.45,0:20:52.20,Default,,0,0,0,,Insolent fool! How dare you, a lowly soldier,\Nsee Lady Alice as your rival?!
+Dialogue: 0,0:20:52.20,0:20:53.12,Default,,0,0,0,,It's fine.
+Dialogue: 0,0:20:53.12,0:20:55.58,Default,,0,0,0,,Yes, it's fi-- What?!
+Dialogue: 0,0:20:58.41,0:21:01.87,Default,,0,0,0,,I feel like this fog has lifted from my heart.
+Dialogue: 0,0:21:01.87,0:21:05.54,Default,,0,0,0,,That's right. That's the answer I wanted.
+Dialogue: 0,0:21:05.54,0:21:11.99,Default,,0,0,0,,A brazen boy who doesn't treat me special.\NThat's the way you should be.
+Dialogue: 0,0:21:13.33,0:21:17.58,Default,,0,0,0,,Alice, I also have something important to say.
+Dialogue: 0,0:21:17.58,0:21:19.08,Default,,0,0,0,,What is it?
+Dialogue: 0,0:21:19.08,0:21:23.24,Default,,0,0,0,,Um... I'd really appreciate it\Nif you'd wear something now...
+Dialogue: 0,0:21:24.62,0:21:27.54,Default,,0,0,0,,I-Iska! Just where do you think you're ogling?!
+Dialogue: 0,0:21:27.54,0:21:29.83,Default,,0,0,0,,But you're the one showing it off!
+Dialogue: 0,0:21:29.83,0:21:32.08,Default,,0,0,0,,That was not my intention!
+Dialogue: 0,0:21:32.08,0:21:36.45,Default,,0,0,0,,This isn't fair, Iska! If you're my rival,\Nyou'll show your naked body, too!
+Dialogue: 0,0:21:36.45,0:21:37.79,Default,,0,0,0,,Now take off your clothes!
+Dialogue: 0,0:21:37.79,0:21:39.95,Default,,0,0,0,,A-Alice, you're not making sense!
+Dialogue: 0,0:21:39.95,0:21:41.99,Default,,0,0,0,,Lady Alice, have you lost it?!
+Dialogue: 0,0:21:41.99,0:21:44.33,Default,,0,0,0,,Don't you run away!
+Dialogue: 0,0:21:58.45,0:22:03.54,Default,,0,0,0,,You may introduce yourself,\Nvisitor from the Empire.
+Dialogue: 0,0:22:03.54,0:22:09.16,Default,,0,0,0,,I'm Risya In Empire. Did I need\Nto make an appointment?
+Dialogue: 0,0:22:09.16,0:22:13.04,Default,,0,0,0,,The Transcendent Demon, Salinger?
+Dialogue: 0,0:22:16.06,0:22:20.04,Default,,0,0,0,,{\fad(500,0)\fs50\bord0\pos(640,264)\fnOpen Sans\clip(338,152,482,472)\t(0,1300,\clip(338,152,906,454))}Paradise:\NAlice's Longest Night
